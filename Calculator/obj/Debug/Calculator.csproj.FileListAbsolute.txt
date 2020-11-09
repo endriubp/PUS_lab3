@@ -1,0 +1,14 @@
+C:\Users\lukas\Downloads\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\lukas\Downloads\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Downloads\Calculator\Calculator\bin\Calculator.dll.config
+C:\Users\lukas\Downloads\Calculator\Calculator\bin\Calculator.dll
+C:\Users\lukas\Downloads\Calculator\Calculator\bin\Calculator.pdb
+C:\Users\lukas\Downloads\Calculator\Calculator\obj\Debug\Calculator.dll
+C:\Users\lukas\Downloads\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\lukas\OneDrive\Pulpit\Calculator\Calculator\bin\Calculator.dll.config
+C:\Users\lukas\OneDrive\Pulpit\Calculator\Calculator\bin\Calculator.dll
+C:\Users\lukas\OneDrive\Pulpit\Calculator\Calculator\bin\Calculator.pdb
+C:\Users\lukas\OneDrive\Pulpit\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive\Pulpit\Calculator\Calculator\obj\Debug\Calculator.dll
+C:\Users\lukas\OneDrive\Pulpit\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\lukas\OneDrive\Pulpit\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
