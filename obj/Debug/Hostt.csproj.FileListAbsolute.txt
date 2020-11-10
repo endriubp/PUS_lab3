@@ -1,0 +1,11 @@
+C:\Users\lukas\OneDrive\Pulpit\Hostt\bin\Debug\Hostt.exe.config
+C:\Users\lukas\OneDrive\Pulpit\Hostt\bin\Debug\Hostt.exe
+C:\Users\lukas\OneDrive\Pulpit\Hostt\bin\Debug\Hostt.pdb
+C:\Users\lukas\OneDrive\Pulpit\Hostt\bin\Debug\Calculator.dll
+C:\Users\lukas\OneDrive\Pulpit\Hostt\bin\Debug\Calculator.pdb
+C:\Users\lukas\OneDrive\Pulpit\Hostt\bin\Debug\Calculator.dll.config
+C:\Users\lukas\OneDrive\Pulpit\Hostt\obj\Debug\Hostt.csprojAssemblyReference.cache
+C:\Users\lukas\OneDrive\Pulpit\Hostt\obj\Debug\Hostt.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive\Pulpit\Hostt\obj\Debug\Hostt.csproj.CopyComplete
+C:\Users\lukas\OneDrive\Pulpit\Hostt\obj\Debug\Hostt.exe
+C:\Users\lukas\OneDrive\Pulpit\Hostt\obj\Debug\Hostt.pdb
